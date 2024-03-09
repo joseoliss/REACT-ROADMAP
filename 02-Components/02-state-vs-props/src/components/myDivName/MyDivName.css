@@ -1,0 +1,19 @@
+.div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.myDivName {
+    background: #4e4e4e;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    width: 300px;
+    margin: 10px;
+}
+
+.myDivName:hover{
+    background: #2c2c2c;
+    transition: 0.25s;
+}
